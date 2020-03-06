@@ -5,7 +5,7 @@ end
 def using_sort(array)
  LGBT = ["Lesbians","Gays","Bisexual","Transsexual"]
  LGBT.sort
- 
+ p LGBT
 end
 
 def using_reverse(array)
