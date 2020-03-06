@@ -3,8 +3,9 @@ def using_include(array, element)
 end
 
 def using_sort(array)
- LGBT = ["Lesbians","Gays","Bisexual","Transsexual"]
- LGBT.sort
+ array = ["wow", "I", "am", "really", "learning", "arrays!"]
+ array.sort
+ p array
  end
 
 def using_reverse(array)
